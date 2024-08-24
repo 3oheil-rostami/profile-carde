@@ -1,0 +1,47 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+
+.conteaner{
+    box-sizing: border-box;
+    width: 500px;
+    height: 400px;
+    background-color: #fff;
+    margin: auto;
+    margin-top: 80px;
+    padding: 25px 0px;
+    box-shadow: 0 0 15px #626462;
+    border-radius: 10px;
+}
+
+.logo{
+    display: block;
+    margin: 0px auto;
+    border: 2px dotted gray;
+    border-radius: 50%;
+
+}
+.title{
+    color: #4c4d4c;
+    width: 226px;
+    margin: 25px auto;
+    font-size: 25px;
+    border-bottom: 5px solid lightgray;
+
+    
+}
+.dec{
+    text-align: center;
+    color: #4c4d4c;
+}
+
+.social{
+    text-align: center;
+    height: 60px;
+    background-color: lightgray;
+}
+.social img{
+    margin: 6px;
+}
+
